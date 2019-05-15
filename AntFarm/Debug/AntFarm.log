@@ -1,0 +1,32 @@
+﻿  stdafx.cpp
+  Soldier.cpp
+  Role.cpp
+c:\users\мария\desktop\c++\antfarm\antfarm\role.cpp(62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Notifications.cpp
+  map.cpp
+  main.cpp
+c:\users\мария\desktop\c++\antfarm\antfarm\main.cpp(26): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\мария\desktop\c++\antfarm\antfarm\main.cpp(43): warning C4996: 'sf::Text::setColor': объявлен deprecate
+          d:\sfml-2.5.1\include\sfml\graphics\text.hpp(210): см. объявление "sf::Text::setColor"
+c:\users\мария\desktop\c++\antfarm\antfarm\main.cpp(144): warning C4244: =: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\мария\desktop\c++\antfarm\antfarm\main.cpp(214): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\мария\desktop\c++\antfarm\antfarm\main.cpp(218): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\мария\desktop\c++\antfarm\antfarm\main.cpp(222): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\мария\desktop\c++\antfarm\antfarm\main.cpp(226): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\мария\desktop\c++\antfarm\antfarm\main.cpp(230): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\мария\desktop\c++\antfarm\antfarm\main.cpp(234): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\мария\desktop\c++\antfarm\antfarm\main.cpp(238): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\мария\desktop\c++\antfarm\antfarm\main.cpp(242): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\мария\desktop\c++\antfarm\antfarm\main.cpp(246): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Collector1.cpp
+  Collector2.cpp
+  Nanny.cpp
+  Enemy.cpp
+c:\users\мария\desktop\c++\antfarm\antfarm\enemy.cpp(231): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Cleaner.cpp
+  Baby.cpp
+  AntFarm.cpp
+  Ant.cpp
+  Создание кода...
+c:\users\мария\desktop\c++\antfarm\antfarm\antfarm.cpp(14): warning C4700: использована неинициализированная локальная переменная "danger"
+  AntFarm.vcxproj -> C:\Users\Мария\Desktop\C++\AntFarm\Debug\AntFarm.exe
